@@ -8,4 +8,4 @@ python3 -m http.server
 
 for example.
 
-This template includes all of the standard reveal.js plugins as well as the [manim-revealjs plugin](github.com/RickDW/manim-revealjs). This plugin makes it easy to use the [Manim](www.manim.community) animation software for your presentations.
+This template includes all of the standard reveal.js plugins as well as the [manim-revealjs plugin](http://github.com/RickDW/manim-revealjs). This plugin makes it easy to use the [Manim](http://www.manim.community) animation software for your presentations.
