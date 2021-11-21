@@ -6,4 +6,6 @@ A simple template for reveal.js presentations. To start a presentation you need 
 python3 -m http.server
 ```
 
-This template includes all of the standard reveal.js plugins as well as the manim-revealjs
+for example.
+
+This template includes all of the standard reveal.js plugins as well as the [manim-revealjs plugin](github.com/RickDW/manim-revealjs). This plugin makes it easy to use the [Manim](www.manim.community) animation software for your presentations.
