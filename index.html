@@ -22,10 +22,11 @@
 		</div>
 
 		<script src="dist/reveal.js"></script>
+		<script src="plugin/math/math.js"></script>
+		<script src="plugin/manim/manim.js"></script>
 		<script src="plugin/notes/notes.js"></script>
 		<script src="plugin/markdown/markdown.js"></script>
 		<script src="plugin/highlight/highlight.js"></script>
-		<script src="plugin/manim/manim.js"></script>
 		<script>
 			// More info about initialization & config:
 			// - https://revealjs.com/initialization/
@@ -34,7 +35,7 @@
 				hash: true,
 
 				// Learn about plugins: https://revealjs.com/plugins/
-				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealManim ]
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.MathJax3, RevealManim ]
 			});
 		</script>
 	</body>
